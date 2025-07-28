@@ -1,0 +1,1 @@
+// Posts.js class component fetching data using fetch() from jsonplaceholder.
