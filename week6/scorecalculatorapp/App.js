@@ -1,1 +1,0 @@
-// CalculateScore.js functional component + mystyle.css + App.js invoking it.
