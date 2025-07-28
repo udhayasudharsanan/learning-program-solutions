@@ -1,1 +1,0 @@
-// CSS Modules: CohortDetails.module.css and conditional styling based on cohort status.
